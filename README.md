@@ -71,7 +71,7 @@
 
 * API 명세서
 
-  * Swagger 활용 권장
+  * Swagger 활용 
   * 요청(Request) 및 응답(Response) 예시 작성
   * 프론트엔드와 백엔드 연동 규격 정의
 
