@@ -200,7 +200,7 @@ AI 기능 구현 과정을 문서화합니다.
 - 2조.zip
 - 3조.zip
 
-### 제출처
+### 제출
 
 - hiksyksyksy@naver.com
 
